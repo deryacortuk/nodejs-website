@@ -72,10 +72,10 @@ The code below can be used to change the text content of the paragraph. First up
 
 ## HEROKU
 ![enter image description here](https://miro.medium.com/max/1710/1*H_nSB0PYTzIxnG9GhNU5vg.jpeg)
-Heroku is a widely used commercial PaaS. In addition to being designed as a container-based cloud PaaS, Heroku also supports a number of widely used programming languages. Heroku supports the **Ruby, Node.js, Python, Java, Go, PHP,** and **Scala** programming languages. This provides easy deployment of existing technologies on Heroku with minimum modifications needed.
+Heroku is a cloud platform as a service (PaaS) that lets companies build, deliver, monitor, and scale apps. In addition to being designed as a container-based cloud PaaS, Heroku also supports a number of widely used programming languages. Heroku supports the **Ruby, Node.js, Python, Java, Go, PHP,** and **Scala** programming languages. This provides easy deployment of existing technologies on Heroku with minimum modifications needed.
 Heroku is designed as a container-based PaaS. As a logical packing mechanism, containers enable developers to keep the applications independent of their deployment environment.
 
-Heroku…
+
 
 -   Runs your application across a preset number of  **virtual servers**.
 -   **Manages releases**  by rolling out your application to different environments.
@@ -102,9 +102,41 @@ Based on Heroku founder Adam Wiggen’s  [Twelve Factor App](https://12factor.ne
 -   Think of your logs as event streams.
 -   Run admin processes as one-off tasks.
 
+
+**Here are pros/benefits of using Heroku:**
+
+-   Allows the developer to focus on code instead of infrastructure
+-   Enhance the productivity of cloud app development team
+-   Offers single billing for all projects broken down by team
+-   Monitor and enhance performance though rich application monitoring
+-   Helps your development, QA, and business stakeholders create a unified dashboard.
+-   Support form Modern Open Source Languages
+-   High-performance Salesforce integration
+-   Simple Horizontal & Vertical Scalability
+-   Heroku operation and security team is instantly ready to help you 24/7
+-   Leading Platform tools and Services Ecosystem
+-   Helps you to focus on innovation, not operations
+-   The Heroku Enterprise architecture offers minimal or no downtime during the system updates.
+-   Fast application lifecycle management and permissions
+-   Allows you to remove friction from the development
+-   Offers a powerful dashboard and CLI
+-   Integrates with familiar developer workflows
+-   Predictability and insight into the cost of application development and maintenance
+-   A bunch of supportive tools
+-   Beginner and startup-friendly
+-   It allows you to create a new server in just 10 seconds by using the interface of Heroku Command Line.
+-   This cloud computing platform takes care of patching systems and keeping everything healthy.
+-   A range of automated functionalities including the scaling, configuration, setup, and others
+-   Easy integration with other AWS products
+-   Medium learning curve
+-   Offers best-in-class Developer Experience
+-   Secure connectivity to Salesforce data to build a single view of the customer
+-   Flexibility to customize and support unique DevOps workflow needs
+
+
 Document Links:
 
 [HEROKU](https://www.heroku.com/what#a-focus-on-apps)
-
 [Heroku architectural](https://cloudacademy.com/blog/what-is-heroku/)
+[Heroku Tutorial](https://www.guru99.com/heroku-vs-aws.html)
  

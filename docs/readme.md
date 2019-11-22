@@ -70,4 +70,41 @@ The code below can be used to change the text content of the paragraph. First up
 > messageOne.textContent = 'My new text'
 
 
+## HEROKU
+![enter image description here](https://miro.medium.com/max/1710/1*H_nSB0PYTzIxnG9GhNU5vg.jpeg)
+Heroku is a widely used commercial PaaS. In addition to being designed as a container-based cloud PaaS, Heroku also supports a number of widely used programming languages. Heroku supports the **Ruby, Node.js, Python, Java, Go, PHP,** and **Scala** programming languages. This provides easy deployment of existing technologies on Heroku with minimum modifications needed.
+Heroku is designed as a container-based PaaS. As a logical packing mechanism, containers enable developers to keep the applications independent of their deployment environment.
+
+Heroku…
+
+-   Runs your application across a preset number of  **virtual servers**.
+-   **Manages releases**  by rolling out your application to different environments.
+-   Ensures your application  **automatically recovers**  from server failures.
+-   Handles  **load balancing**  across many application instances, allowing you to instantly scale your application to support millions of users.
+-   Allows you to quickly  **add and remove infrastructure blocks**  like caching servers and database servers.
+
+
+
+### Heroku architectural principles
+
+
+Based on Heroku founder Adam Wiggen’s  [Twelve Factor App](https://12factor.net/), you should ideally keep these considerations in mind when designing your Heroku deployments (or, for that matter, any deployments):
+
+-   Version control and store your application in Git.
+-   Declare and isolate dependencies.
+-   Store your application configuration profile data in environment variables.
+-   Design infrastructure elements to work as attachable modular resources.
+-   Separate your build and run stages.
+-   Design your application to be stateless so it can be easily reused.
+-   Export services via port bindings
+-   Scale-out your application using concurrency
+-   Keep your development, staging, and production images as similar as possible.
+-   Think of your logs as event streams.
+-   Run admin processes as one-off tasks.
+
+Document Links:
+
+[HEROKU](https://www.heroku.com/what#a-focus-on-apps)
+
+[Heroku architectural](https://cloudacademy.com/blog/what-is-heroku/)
  

@@ -43,7 +43,9 @@ The query string is a portion of the URL that allows you to provide additional i
  Web APIs provide you with a way to make HTTP requests from JavaScript in the browser. This is done using the fetch function. fetch expects to be called with the URL as the first argument. It sends off the HTTP request and gives you back the response. 
  
  Document Links:
+ 
  [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+ 
  [Fetch Tutorial](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
 
 **Rendering Dynamic textContent**

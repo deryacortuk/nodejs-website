@@ -16,10 +16,11 @@ const partialsPath = path.join(__dirname, '../templates/partials')
 
 
 app.set('view engine', 'hbs')
+
 app.set('views', viewsPath)
 hbs.registerPartials(partialsPath)
-
 app.use(express.static(directoryPath))
+
 
 app.get('', (req, res) => {
     res.render('index', {
@@ -35,6 +36,7 @@ app.get('/about', (req, res) => {
         name: 'DERYA CORTUK'
     })
 })
+
 
 app.get('/weather', (req, res) => {
     if (!req.query.address) {
@@ -90,6 +92,7 @@ app.get('/help/*', (req, res) => {
         errorMessage: 'Page not found!'
     })
 })
+
 app.get('*', (req, res) => {
     res.render('404', {
         title: '404 page',

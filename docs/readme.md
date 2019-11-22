@@ -85,6 +85,7 @@ Heroku is designed as a container-based PaaS. As a logical packing mechanism, co
 
 
 
+
 ### Heroku architectural principles
 
 
@@ -101,6 +102,7 @@ Based on Heroku founder Adam Wiggen’s  [Twelve Factor App](https://12factor.ne
 -   Keep your development, staging, and production images as similar as possible.
 -   Think of your logs as event streams.
 -   Run admin processes as one-off tasks.
+
 
 
 **Here are pros/benefits of using Heroku:**
@@ -137,6 +139,8 @@ Based on Heroku founder Adam Wiggen’s  [Twelve Factor App](https://12factor.ne
 Document Links:
 
 [HEROKU](https://www.heroku.com/what#a-focus-on-apps)
+
 [Heroku architectural](https://cloudacademy.com/blog/what-is-heroku/)
+
 [Heroku Tutorial](https://www.guru99.com/heroku-vs-aws.html)
  

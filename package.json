@@ -4,8 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "nodemon source/app.js"
+        "start": "node source/app.js"
     },
     "author": "Derya Cortuk",
     "license": "ISC",

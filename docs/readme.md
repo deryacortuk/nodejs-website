@@ -1,6 +1,5 @@
 # A RESTful Api With Node.js And Express.Js
 
-## Express
 ![enter image description here](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)
 
 Fast, unopinionated, minimalist web framework for [node](http://nodejs.org/).
